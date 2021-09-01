@@ -11,4 +11,4 @@ O Jokenpo Bot tem a função de jogar jokenpo (Pedra, Papel e Tesoura), o jogado
 Gabriel Silveira e Gustavo Casagrande.
 
 # Plugins
-Nao foi utilizado um Plugin. Única coisa utilizada foi a biblioteca Discord.P.
+Nao foi utilizado um Plugin. Única coisa utilizada foi a biblioteca Discord.Py.
